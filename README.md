@@ -6,6 +6,8 @@ https://prezi.com/view/QH57ZSeyxU7RstMZTLNK/?referral_token=HUjRLNlnB3FN
 or
 https://docs.google.com/presentation/d/1I12qykwNXK7ENfsV2EybmJLzhrga6W5ksIR2px8yrvw/edit?usp=sharing
 
+A video is available at https://docs.google.com/videos/d/1_9aDjb7esMjpzbvlKPKWUmKHFiLVPfVepzEakQZomPE/edit?usp=sharing
+
 Includes
 -Project Manager: takes a xls/wiki based instruction set to a couple of click repeatable process to set up each qgis project that the Remote Sencing Scientist may then spend days working through. Ensures a standard setup that the whole team is familiar with.
 -Create Grid: sets out a grid that is used to review imagery at a set scale, zoom in/out and return to last checked spot.
